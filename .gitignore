@@ -1,0 +1,11 @@
+# Skip virtual enviroment
+.venv/
+venv/
+env/
+
+# Skip cache file
+__pycache__/
+*.pyc
+
+# Skip enviroment variables
+.env
